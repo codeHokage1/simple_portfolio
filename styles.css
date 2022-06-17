@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Dosis:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.path{
+    color: white;
+    font-family: monospace;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-size: 14pt;
+}
+header{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+#logo{
+    border-radius: 50%;
+    width: 100px;
+}
+body{
+    background-color: #161B40;
+}
+#about-body{
+    background-color: #2d819b;
+}
+section{
+    margin: 20px auto;
+    background-color: #2d819b;
+    color: white;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 40px;
+    font-size: 14pt;
+    /* font-family: 'Arvo', serif; */
+    font-family: 'Dosis', sans-serif;    font-family: 'Dosis', sans-serif;
+}
+#about-section{
+    background-color: #161B40;
+    padding: 25px;
+
+}
+#contact-section{
+    line-height: 30px;
+}
+.others{
+    text-align: center;
+    font-family: 'Arvo', serif;
+    color: white;
+    font-size: 11pt;
+    line-height: 25px;
+}
+a{
+    color: #EFA500;;
+}
+.media-handles img{
+    width: 50px;
+    margin-right: 20px;
+}
+.media-handles{
+    margin-top: 20px;
+}
+.frequent-socials{
+    margin-bottom: 20px;
+}
+.media-handles img:hover{
+    box-shadow: 3px 3px 3px #EFA500;
+}
+hr{
+    width: 90%;
+    margin: 20px auto 10px auto;
+}
+#about-hr{
+    margin: 10px auto;
+}
+#contact-hr{
+    margin-top: 80px;
+}
+footer{
+    font-family: monospace;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    color: grey;
+    font-size: 12pt;
+    text-align: center;
+}
+#about-footer{
+    color: #161B40;
+}
