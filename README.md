@@ -3,7 +3,10 @@ This projects displays static html pages containing texts, images and links usin
 
 ## How to use
 - Download all files in / Clone the repo to your local machine
-- Run the **index.js** file
+- Run the **index.js** file 
+```
+npm start
+```
 - Open a browser tab on *port 2040*:
 ```
 localhost:2040
