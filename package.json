@@ -1,0 +1,22 @@
+{
+  "name": "simple_portfolio",
+  "version": "1.0.0",
+  "description": "This projects displays static html pages containing texts, images and links using the http, url and fs modules in the JavaScript Node runtime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeHokage1/basicPortfolio.git"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeHokage1/basicPortfolio/issues"
+  },
+  "homepage": "https://github.com/codeHokage1/basicPortfolio#readme"
+}
